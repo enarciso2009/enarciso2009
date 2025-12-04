@@ -78,6 +78,8 @@
 ## 📫 Contato
 
 - 💼 GitHub: https://github.com/enarciso2009  
+- 📱 WhatsApp:  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato%20Direto-brightgreen?logo=whatsapp&logoColor=white)](https://wa.me/5511947509366)
 - 🏠 Disponível para **CLT Home Office – Brasil**
 
 ---
