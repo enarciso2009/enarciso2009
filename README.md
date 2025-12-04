@@ -1,83 +1,90 @@
-<h1 align="center">👋 Olá! Eu sou o Everton Narciso</h1>
+# 👋 Olá, eu sou o Everton Narciso!
 
-<p align="center">
-  <strong>Desenvolvedor Python | APIs | Django | Automação | Linux | MySQL</strong>
-</p>
-
----
-
-## 🚀 Sobre mim
-Sou Desenvolvedor Python com experiência sólida em automações, APIs, integrações e análise técnica.
-Trabalho há mais de 20 anos com sistemas corporativos, criando soluções completas — do entendimento da necessidade ao desenvolvimento, testes e entrega.
-
-Atualmente focado em:
-- Desenvolvimento Python
-- Django + REST
-- Automação de processos
-- Integração de sistemas
-- Serviços Windows + Linux
-- Estruturas robustas e escaláveis
-
-Buscando **vagas remotas** como Desenvolvedor Python ou Analista Técnico.
+💻 **Desenvolvedor Python** com foco em **APIs, Sistemas Web, Automação e Aplicações Desktop**.  
+🚀 Trabalho com projetos reais, voltados para **ambiente corporativo**, integração de sistemas e soluções escaláveis.  
+🏠 Busco oportunidades **CLT / Home Office no Brasil**.
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## 🧠 Sobre mim
 
-### 💻 Linguagens & Frameworks:
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-
-### 🛢 Bancos de Dados:
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
-![SQLServer](https://img.shields.io/badge/-SQL%20Server-000?style=for-the-badge&logo=microsoftsqlserver)
-![Oracle](https://img.shields.io/badge/-Oracle-000?style=for-the-badge&logo=oracle)
-
-### 🖥 Sistemas:
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=for-the-badge&logo=ubuntu)
-![Windows](https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows)
-
-### 🧰 Ferramentas:
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
-![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode)
+- 🔹 Desenvolvedor Python
+- 🔹 Experiência com **Django & Django REST Framework**
+- 🔹 Criação de **APIs REST seguras**
+- 🔹 Desenvolvimento de **sistemas web corporativos**
+- 🔹 Automação de processos com Python
+- 🔹 Aplicações Desktop integradas com servidores
+- 🔹 Experiência com **Windows Server e Linux Ubuntu**
+- 🔹 Versionamento com **Git & GitHub**
 
 ---
 
-## 📌 Projetos em Destaque
+## 🚀 Minhas Principais Tecnologias
 
-### 🔹 **MRMult – Sistema de Automação e Integração (Privado)**
-Projeto profissional em Python com automação, APIs REST, MySQL, logs estruturados,
-serviço Windows e pacote via PyInstaller.  
-📄 *Código privado, documentação disponível mediante solicitação.*
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Django](https://img.shields.io/badge/Django-Framework-success)
+![Django REST](https://img.shields.io/badge/Django%20REST-API-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-purple)
+![Windows Server](https://img.shields.io/badge/Windows-Server-blue)
+![Git](https://img.shields.io/badge/Git-Versionamento-orange)
 
-### 🔹 **Refeitório – Sistema Web em Django**
-CRUD completo, autenticação, integração com VaultNext, templates modernos e API interna.  
-➡ **(Torne público para aparecer aqui!)**
+---
+
+## 🧩 Projetos em Destaque
+
+### 🔹 Django REST API - Sistema de Gestão
+📌 Repositório:  
+🔗 https://github.com/enarciso2009/django-rest-api-demo  
+
+✅ API profissional  
+✅ Autenticação por Token  
+✅ Documentação Swagger  
+✅ Integração com sistemas web e desktop  
+✅ Projeto preparado para produção
+
+---
+
+### 🔹 MRMult - Sistema Corporativo Completo
+📌 Projeto em desenvolvimento real para empresa  
+✅ Controle de visitantes  
+✅ Equipamentos  
+✅ Empresas  
+✅ Funcionários  
+✅ API integrada  
+✅ Desktop + Web  
+
+---
+
+## 🛠️ O que eu desenvolvo
+
+- ✅ APIs REST com Django
+- ✅ Sistemas Web Corporativos
+- ✅ Automação com Python
+- ✅ Integração entre sistemas
+- ✅ Aplicações Desktop conectadas com servidores
+- ✅ Deploy em Linux e Windows Server
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=enarciso2009&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enarciso2009&layout=compact&theme=radical" />
-</p>
+![Everton GitHub Stats](https://github-readme-stats.vercel.app/api?username=enarciso2009&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enarciso2009&layout=compact)
 
 ---
 
 ## 📫 Contato
 
-📧 **E-mail:** everton.narciso@icloud.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/everton-narciso/  
-💼 Buscando oportunidades **remotas** na área de Desenvolvimento Python.
+- 💼 GitHub: https://github.com/enarciso2009  
+- 🏠 Disponível para **CLT Home Office – Brasil**
 
 ---
 
-<p align="center">
-  ⭐ Se gostou do meu perfil, deixe uma estrela nos projetos!
-</p>
+## ✅ Status Atual
+
+🚀 Em constante evolução  
+📚 Estudando diariamente  
+💻 Desenvolvendo projetos reais  
+🎯 Foco total em crescimento profissional
